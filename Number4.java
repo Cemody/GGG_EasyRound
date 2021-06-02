@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Dexter Dela Rosa
+ * @author
  */
 public class Easy4 {
 
