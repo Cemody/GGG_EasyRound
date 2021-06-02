@@ -9,14 +9,12 @@ public class Number1 {
         int loop = in.nextInt();
         int m;
         int n;
-        int diff;
         ArrayList<Integer> store = new ArrayList<>();
         for (int i = 1; i <= loop; i++) {
             
             m = in.nextInt();
             n = in.nextInt();
-            diff = n-m;
-            for (int j = m; j <= diff; j++) {
+            for (int j = m; j <= n; j++) {
                 if(j%2!=0) store.add(j);
             }
         }
@@ -25,3 +23,4 @@ public class Number1 {
         }
     }
 }
+
