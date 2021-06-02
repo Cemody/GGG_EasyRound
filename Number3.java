@@ -7,7 +7,7 @@ package progcomp;
 
 /**
  *
- * @author
+ * @author Cemody
  */
 public class Number3 {
 
