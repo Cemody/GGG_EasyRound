@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author
+ * @author Cemody
  */
 public class Easy4 {
 
